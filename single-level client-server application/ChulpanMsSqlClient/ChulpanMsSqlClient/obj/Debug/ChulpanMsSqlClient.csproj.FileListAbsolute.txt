@@ -1,0 +1,36 @@
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\bin\Debug\ChulpanMsSqlClient.exe.config
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\bin\Debug\ChulpanMsSqlClient.exe
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\bin\Debug\ChulpanMsSqlClient.pdb
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.csprojAssemblyReference.cache
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\LoginPage.g.cs
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\MainPage.g.cs
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\MainWindow.g.cs
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\App.g.cs
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient_MarkupCompile.cache
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient_MarkupCompile.lref
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\LoginPage.baml
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\MainPage.baml
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\MainWindow.baml
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.g.resources
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.Properties.Resources.resources
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.csproj.GenerateResource.cache
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.exe
+D:\all\programming\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.pdb
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\bin\Debug\ChulpanMsSqlClient.exe.config
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\bin\Debug\ChulpanMsSqlClient.exe
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\bin\Debug\ChulpanMsSqlClient.pdb
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.csprojAssemblyReference.cache
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\LoginPage.g.cs
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\MainPage.g.cs
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\MainWindow.g.cs
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\App.g.cs
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient_MarkupCompile.cache
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient_MarkupCompile.lref
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\LoginPage.baml
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\MainPage.baml
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\MainWindow.baml
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.g.resources
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.Properties.Resources.resources
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.csproj.GenerateResource.cache
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.exe
+G:\all\Чулпан\Предыдущие семестры\КСП\3 лаба\ChulpanMsSqlClient\ChulpanMsSqlClient\obj\Debug\ChulpanMsSqlClient.pdb
