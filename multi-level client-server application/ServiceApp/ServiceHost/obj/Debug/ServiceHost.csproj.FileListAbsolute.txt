@@ -1,0 +1,10 @@
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\bin\Debug\ServiceHost.exe.config
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\bin\Debug\ServiceHost.exe
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\bin\Debug\ServiceHost.pdb
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\bin\Debug\ServiceApp.dll
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\bin\Debug\ServiceApp.pdb
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\bin\Debug\ServiceApp.dll.config
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\obj\Debug\ServiceHost.csprojAssemblyReference.cache
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\obj\Debug\ServiceHost.csproj.CopyComplete
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\obj\Debug\ServiceHost.exe
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceHost\obj\Debug\ServiceHost.pdb

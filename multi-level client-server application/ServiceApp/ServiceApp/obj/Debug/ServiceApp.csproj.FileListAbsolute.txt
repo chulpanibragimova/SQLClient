@@ -1,0 +1,6 @@
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceApp\bin\Debug\ServiceApp.dll.config
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceApp\bin\Debug\ServiceApp.dll
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceApp\bin\Debug\ServiceApp.pdb
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceApp\obj\Debug\ServiceApp.csprojAssemblyReference.cache
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceApp\obj\Debug\ServiceApp.dll
+G:\all\Чулпан\КСП\4 лаба\ServiceApp\ServiceApp\obj\Debug\ServiceApp.pdb
